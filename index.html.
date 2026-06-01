@@ -1,4 +1,3 @@
-# projeto-agrinho
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -12,7 +11,7 @@
     padding:0;
     box-sizing:border-box;
     font-family:Arial,sans-serif;
-}ite is live at ht
+}
 
 body{
     background:#0f172a;
@@ -72,7 +71,7 @@ input{
 
 <section class="games">
 
-<div class="carite is live at htd">
+<div class="card">
 <h2>⚡ Clique Rápido</h2>
 <p>Pontos: <span id="score">0</span></p>
 <button onclick="clickGame()">Clique!</button>
